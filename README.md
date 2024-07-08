@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LarsDeGraaf
-- 👀 I’m interested in Cloud & Cyber Security
-- 🌱 I’m currently learning Git & GItHub
+- 👀 I’m interested in Cloud & (Cloud) Cyber Security
+- 🌱 I’m currently learning Git & GitHub
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: The S in IOT stands for Secure
 
